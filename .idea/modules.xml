@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBootcamp-Kodlamaio.iml" filepath="$PROJECT_DIR$/JavaBootcamp-Kodlamaio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
     </modules>
   </component>
 </project>
